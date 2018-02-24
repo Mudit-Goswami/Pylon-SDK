@@ -1,0 +1,1 @@
+/home/mudit/summer internship/pylon_video_capture/build/CMakeFiles/video.dir
